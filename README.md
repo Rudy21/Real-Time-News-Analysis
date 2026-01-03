@@ -60,5 +60,8 @@ This project demonstrates **end-to-end data analytics workflow** — from data i
 ## 📷 Dashboard Preview
 > *<img width="1469" height="675" alt="image" src="https://github.com/user-attachments/assets/109424b6-de20-4f9e-8e0a-ba4a2d9b921b" />
 *
+* <img width="1464" height="678" alt="image" src="https://github.com/user-attachments/assets/dd54990b-701a-4e0d-8456-29817e53ac63" />
+*
+* <img width="1467" height="677" alt="image" src="https://github.com/user-attachments/assets/76f7eec4-8dca-4e16-916d-930469715688" />
+*
 
-Example:
